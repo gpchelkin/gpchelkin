@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+In my free time, I build and maintain [scdlbot](https://github.com/gpchelkin/scdlbot). You can check it out at https://t.me/gpchelkin
+
+My contacts and all links: https://g.pchelk.in
+
 <!--
 **gpchelkin/gpchelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
