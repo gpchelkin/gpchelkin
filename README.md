@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In my free time, I build and maintain [scdlbot](https://github.com/gpchelkin/scdlbot). You can check it out at https://t.me/gpchelkin
+In my free time, I build and maintain [scdlbot](https://github.com/gpchelkin/scdlbot). You can check it out at https://t.me/scdlbot
 
 My contacts and all links: https://g.pchelk.in
 
